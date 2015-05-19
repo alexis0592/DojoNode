@@ -2,15 +2,8 @@
 
 # DojoNode
 
-
-
-## Usage
-
-
-
-## Developing
-
-
+Desarrollado por: Yefry Alexis Calderón Yepes
+Desarrollo de Aplicaciones Empresariales
 
 ### Tools
 
